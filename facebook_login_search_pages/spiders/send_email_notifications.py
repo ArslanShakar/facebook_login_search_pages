@@ -7,9 +7,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 
-RECEIVER_EMAIL = 'alifarslan786@gmail.com'  # REPLACE YOUR RECEIVING E-MAIL
-SENDER_EMAIL = 'huwaiguest@gmail.com'  # REPLACE YOUR SENDING E-MAIL
-SENDER_PASSWORD = 'huwai78600'  # REPLACE YOUR Sender Email PASSWORD
+RECEIVER_EMAIL = ''  # REPLACE YOUR RECEIVING E-MAIL
+SENDER_EMAIL = ''  # REPLACE YOUR SENDING E-MAIL
+SENDER_PASSWORD = ''  # REPLACE YOUR Sender Email PASSWORD
 
 port = 587
 SERVER = 'smtp.gmail.com:{}'.format(port)
