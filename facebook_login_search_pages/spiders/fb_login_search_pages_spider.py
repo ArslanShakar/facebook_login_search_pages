@@ -23,8 +23,8 @@ from webdriver_manager.firefox import GeckoDriverManager
 from .send_email_notifications import SendEmailNotifications
 
 # Please Put Your Facebook Login Credentials
-user_email = 'alifarslan786@gmail.com'
-user_password = """arslan'"'1  """
+user_email = ''
+user_password = ''
 
 
 def get_search_terms_from_file():
